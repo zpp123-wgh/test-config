@@ -1,6 +1,1 @@
-spring:
-    application:
-        name:consumer
-server:
-    port:8003
 myValue: Spring Cloud Config success!
